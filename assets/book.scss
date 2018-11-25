@@ -75,7 +75,8 @@ aside.fixed nav {
   position: fixed;
   top: 0;
   bottom: 0;
-  overflow: hidden auto;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 header {
